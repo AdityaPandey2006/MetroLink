@@ -41,7 +41,9 @@ MetroLink helps manage metro stations, connections, users, fares, and bookings t
 ---
 
 ## 📁 Project Structure
+📁 Project Structure
 
+.
 ├── admin.c
 ├── database.c
 ├── database.h
@@ -54,6 +56,7 @@ MetroLink helps manage metro stations, connections, users, fares, and bookings t
 ├── usercounter.txt
 ├── users.txt
 └── README.md
+
 
 
 ---
