@@ -43,6 +43,7 @@ MetroLink helps manage metro stations, connections, users, fares, and bookings t
 ## 📁 Project Structure
 📁 Project Structure
 
+```text
 .
 ├── admin.c
 ├── database.c
